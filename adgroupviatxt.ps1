@@ -15,7 +15,7 @@ logfiles with date
    Version:        0.1
    Author:         Alexander Koehler
    Creation Date:  Friday, October 18th 2019, 7:03:46 pm
-   File: ad-group-fill-txt.ps1
+   File: adgroupviatxt.ps1
    Copyright (c) 2019 blog.it-koehler.com
 HISTORY:
 Date      	          By	Comments
